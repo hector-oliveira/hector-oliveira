@@ -33,11 +33,8 @@ Vamos **codar** juntos!👊🏻👨🏻‍💻
 <hr style=" margin: 30px 0;" />
 
 <h3 align="left">Contate-me</h3>
-
-<div style="display: flex; justify-content: center">
-  <div style="display: flex; gap: 10px"> 
-    <a href="https://www.instagram.com/hectoroliveiira/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a> 
-    <a href="mailto:hectorabreu.oliveira@outlook.com"><img style="border-radius: 4px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" ></a>
-    <a href="https://www.linkedin.com/in/hector-oliveira-247249301/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
-  </div>
+<div style="display: flex; gap: 10px">
+  <a href="https://www.instagram.com/hectoroliveiira/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a> 
+  <a href="mailto:hectorabreu.oliveira@outlook.com"><img style="border-radius: 4px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" ></a>
+  <a href="https://www.linkedin.com/in/hector-oliveira-247249301/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 </div>
