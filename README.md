@@ -25,16 +25,16 @@ Vamos **codar** juntos!👊🏻👨🏻‍💻
 
 <h3 align="left">Outras Ferramentas:</h3>
 <div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img alt="Jest" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" >
+  <img alt="Git" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
+  <img alt="PostgreSQL" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" >
 </div>
 
 <hr style=" margin: 30px 0;" />
 
 <h3 align="left">Contate-me</h3>
-<div style="display: flex; gap: 10px">
-  <a href="https://www.instagram.com/hectoroliveiira/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a> 
-  <a href="mailto:hectorabreu.oliveira@outlook.com"><img style="border-radius: 4px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" ></a>
+<div style="display: inline_block">
+  <a href="https://www.instagram.com/hectoroliveiira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a> 
+  <a href="mailto:hectorabreu.oliveira@outlook.com"><img style="border-radius: 4px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/hector-oliveira-247249301/" target="_blank"><img style="border-radius: 4px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 </div>
