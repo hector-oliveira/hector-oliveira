@@ -25,7 +25,7 @@ Vamos **codar** juntos!👊🏻👨🏻‍💻
 </div>
 
 <h3 align="left">Outras Ferramentas:</h3>
-<div style="display: flex; gap: 12px">
+<div style="display: flex; gap: 16px">
   <img alt="Jest" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" >
   <img alt="Git" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
   <img alt="PostgreSQL" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" >
