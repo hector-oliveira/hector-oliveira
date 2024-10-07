@@ -17,7 +17,7 @@ Vamos **codar** juntos!👊🏻👨🏻‍💻
 <div style="display: inline_block">
   <img align="center" alt="ReactJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NextJs" width="40" height="30" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png">
+  <img align="center" alt="Expo" width="40" height="30" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png">
   <img align="center" alt="HTML-5" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-3" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" width="40" height="30" src="https://raw.githubusercontent.com/imgul/imgul/main/logos/Tailwind-CSS-Logo.webp">
