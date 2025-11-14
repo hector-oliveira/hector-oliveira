@@ -9,24 +9,18 @@ Vamos **codar** juntos!👊🏻👨🏻‍💻
   <img align="center" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Javascript" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Typescript" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Cpp" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-<h3 align="left">Desenvolvimento Front-end:</h3>
+<h3 align="left">Ferramentas de Análises | Desenvolvimento:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jupyter" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Power Bi" width="40" height="50" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
   <img align="center" alt="ReactJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Vite" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Expo" width="40" height="35" src="https://icons-for-free.com/iff/png/512/Expo-1329545818230359497.png">
-  <img align="center" alt="HTML-5" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-3" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" width="40" height="30" src="https://raw.githubusercontent.com/imgul/imgul/main/logos/Tailwind-CSS-Logo.webp">
 </div>
 
-<h3 align="left">Outras Ferramentas:</h3>
+<h3 align="left">Ferramentas de Teste | Versionamento | Banco de dados:</h3>
 <div style="display: flex; gap: 16px">
   <img alt="Jest" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" >
   <img alt="Git" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
