@@ -1,6 +1,6 @@
 ## 👋 Prazer! Hector Oliveira
 
-Sou **Analista de Dados Júnior**, especilista em **análise comercial e apoio à tomada de decisão**.
+Sou Analista de Dados Júnior, com experiência em análises de dados orientadas ao negócio, apoiando decisões estratégicas em diferentes áreas da empresa.
 
 Atuo na transformação de dados brutos em **insights claros para o negócio**, passando por:
 - Entendimento do problema
