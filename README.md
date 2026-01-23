@@ -9,7 +9,7 @@ Atuo na transformação de dados brutos em **insights claros para o negócio**, 
 - Definição de KPIs
 - Construção de dashboards e análises orientadas ao negócio
 
-📊 Meus projetos simulam cenários reais de negócio, com foco em **vendas, clientes, receita e performance comercial**.
+📊 Meus projetos simulam cenários reais de negócio, explorando dados para **gerar insights estratégicos e apoiar a tomada de decisão em diferentes áreas da empresa**.
 
 Sinta-se à vontade para explorar os repositórios fixados e acompanhar minha evolução 🚀
 
@@ -26,8 +26,3 @@ Sinta-se à vontade para explorar os repositórios fixados e acompanhar minha ev
 
 **Versionamento**
 - Git & GitHub
-
-### 💻 Desenvolvimento (secundário)
-- JavaScript / TypeScript
-- React.js / Next.js
-
